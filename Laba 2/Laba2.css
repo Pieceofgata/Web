@@ -1,0 +1,76 @@
+body{
+	background: linear-gradient(45deg,#1f1f1f,#ffffff,#1f1f1f);
+	min-height: 1000px;
+	font-family: 'Roboto Mono', monospace;
+	font-size: 12px;
+	margin:0;
+}
+	
+h1{
+	font-family: 'Roboto Mono', monospace;
+	line-height: 1.47059;
+    font-weight: 400;
+    letter-spacing: -.022em;
+	color: #000000;
+	margin:0;
+    font-size: 40px;
+}
+
+h2{
+    font-family: 'Roboto Mono', monospace;
+    color: #1f1f1f;
+    font-size: 25px;
+    text-shadow:  #1f1f1f 0 0 20px;
+}
+
+input{
+    background-color: white;
+}
+
+.button
+{
+    background-color: #1f1f1f;
+    border-radius: 10px;
+    color: #ffffff;
+    border-color: #1f1f1f;
+    margin-bottom: auto;
+    height: 25px;
+    width: 250px;
+    font-size: 18px;
+}
+.button:hover{
+    border-color: #ffffff;
+}
+.button:active
+{
+    border-color:#ffffff;
+}
+.button:focus
+{
+    border-color: #ffffff;
+}
+
+
+.answer{
+font-size: 25px;
+color: #ffffff;
+background-color: #1f1f1f;
+}
+
+.field{
+    color: #ffffff;
+    background-color: #1f1f1f;
+    border-radius: 10px;
+    border-color: #ffffff;
+    width: 350px;
+    height: 35px;
+    font-size: 25px ;
+    
+}
+	
+	
+	
+	
+	
+	
+	

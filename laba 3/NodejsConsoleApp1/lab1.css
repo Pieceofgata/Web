@@ -1,0 +1,79 @@
+
+
+h2{
+	
+	margin:0;
+	font-family:'Roboto Mono', monospace;
+	color:#ffee00;
+	text-align: center;
+	background-color:#000000;
+	font-size: 33px;
+}
+h3{
+	margin:bottom;
+	font-family:'Roboto Mono', monospace;
+	color:#000000;
+	font-size: x-large;
+	text-align: center;
+  background-color:#000000;
+}
+
+h4{
+  margin:bottom;
+	font-family:'Roboto Mono', monospace;
+	color:#ffee00;
+	font-size: x-large;
+	text-align: center;
+  background-color: #000000;
+}
+
+footer{
+  margin-bottom: 0px;
+  text-align: center;
+  background-color: #000000;
+}
+
+.button{
+	cursor: pointer;
+    display: inline-block;
+    text-align: center;
+    white-space: nowrap;
+    font-size: 20px;
+    line-height: 1.17648;
+    font-weight: 400;
+    letter-spacing: -.022em;
+    font-family:'Roboto Mono', monospace;
+    min-width: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 0px;
+    background: #fc9802;
+    color: #ffee00;
+}
+.button:hover{
+	color: black
+}
+body{
+	margin:0;
+	background:black;
+}
+
+
+.image{
+	border-radius: 10%;
+  width:854px;
+  height: 480px;
+  background-image:url(teemo.jpg);
+  background-position: center center;
+  background-size:cover;
+  float:left;
+}
+
+body {
+  font-family: 'Roboto Mono', monospace;
+  background: #000000;
+  height: 100%;
+}
+
